@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Plant-Disease-Detection",
+			"path": "../../Plant-Disease-Detection"
+		},
+		{
+			"name": "Plant_Disease_Dataset",
+			"path": "."
+		},
+		{
+			"name": "archive.zip.download",
+			"path": "../archive.zip.download"
+		}
+	],
+	"settings": {}
+}
